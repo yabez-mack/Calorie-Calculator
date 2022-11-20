@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Calorie Counter
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This App Calculates Foods eaten, Exercises done and calculates calories gained or reduced.
 
 ## Available Scripts
 
