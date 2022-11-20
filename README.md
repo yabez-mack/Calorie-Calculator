@@ -22,7 +22,7 @@ server will run on http://localhost:3001
 ### `Mongodb`
 
 This code has backend connected to Mongodb as database that stores Names and calories of food items.
-
+backend will be running on mongodb://localhost:27017/food
 
 
 ### `npm run eject`
